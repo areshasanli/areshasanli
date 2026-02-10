@@ -10,12 +10,14 @@ Involved in data research, data quality improvement, and preparing reliable data
 ### Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,julia,postgres,docker,git,bash,linux&theme=dark" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSV-1D6F42?style=flat" />
   <img src="https://img.shields.io/badge/Parquet-50B5FF?style=flat" />
 </p>
