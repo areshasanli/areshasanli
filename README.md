@@ -10,7 +10,7 @@ Involved in data research, data quality improvement, and preparing reliable data
 ### Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,julia,postgres,docker,git,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,julia,git,bash,linux&theme=dark" />
 </p>
 
 <p>
